@@ -1,0 +1,23 @@
+{
+  "name": "erik-the-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rhgreene110/erik-the-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rhgreene110/erik-the-bot/issues"
+  },
+  "homepage": "https://github.com/rhgreene110/erik-the-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
